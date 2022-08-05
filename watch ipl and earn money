@@ -27,7 +27,7 @@
    
    "is_vpn_on":"0",
    
-   "on_create_ad_show":"1",
+   "on_create_ad_show":"0",
    
    "qureka_load":"0",
    "one_webify_load":"1",
