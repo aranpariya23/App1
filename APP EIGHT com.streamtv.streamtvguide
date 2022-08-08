@@ -27,10 +27,10 @@
    
    "show_manual_inter":"0",
    
-   "on_create_ad_show":"0",
+   "on_create_ad_show":"1",
    
    "qureka_load":"0",
-   "one_webify_load":"0",
+   "one_webify_load":"1",
    "gamezop_load":"0",
    "atme_load":"0",
    
@@ -47,19 +47,19 @@
    "back_press_ad":"1",
    
    "qureka_exit":"0",
-   "one_webify_exit":"0",
+   "one_webify_exit":"1",
    "gamezop_exit":"0",
    "atme_exit":"0",
    
    "startapp_app_id":"207664604",
-   "show_startapp_ad":"0",
+   "show_startapp_ad":"1",
    
    "tips_for_page_ad":"0 for no ad, 1 for topon fb and admob",
    
-   "page_splash":"0",
-   "page_one":"0",
-   "page_two":"0",
-   "page_three":"0",
-   "page_four":"0"
+   "page_splash":"1",
+   "page_one":"1",
+   "page_two":"1",
+   "page_three":"1",
+   "page_four":"1"
    
 }
